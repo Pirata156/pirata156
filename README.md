@@ -5,6 +5,8 @@
   </a>
 </p>
 
+<div align="center">
+
 # Ahoy matey, I be Pirata !!! 💾 4 💾
 
 
@@ -136,6 +138,8 @@ Feel free to reach out if you want to collaborate on a project, discuss, or just
 <hr style="height:30 pt; visibility:hidden;" />  
 
 ![snake animation](https://github.com/Pirata156/Pirata156/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 <!--
 **Pirata156/Pirata156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
