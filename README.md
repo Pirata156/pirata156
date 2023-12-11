@@ -19,7 +19,7 @@
  ⚓️💀🏴‍☠️ Be warned: Navigate at yer own peril, no charts be providin', and ye be sure to meet Davy Jones 'fore a life buoy be thrown yer way! 🏴‍☠️💀⚓️
 </p>
 
-
+<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZjc21wcnM1NjRxb2ZzYnpraXFzNzJ6NGM5eXZqdjBscmdjMXk5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" /></p>
 <!-- <p align="center"><img src="https://i.imgur.com/MvMxQ1a.gif" width="600" /></p> -->
 
 <div style="display: flex;">
