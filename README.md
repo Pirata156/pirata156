@@ -123,7 +123,7 @@ Feel free to reach out if you want to collaborate on a project, discuss, or just
 
 <hr style="height:30 pt; visibility:hidden;" />  
 
-![snake animation](https://github.com/Pirata156/Pirata156/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Pirata156/Pirata156/blob/output/snake.svg)
 
 </div>
 
