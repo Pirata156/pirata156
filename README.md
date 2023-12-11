@@ -24,9 +24,6 @@
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZjc21wcnM1NjRxb2ZzYnpraXFzNzJ6NGM5eXZqdjBscmdjMXk5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" /></p>
 <!-- <p align="center"><img src="https://i.imgur.com/MvMxQ1a.gif" width="600" /></p> -->
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-
 ## 🌐 Languages
 
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
@@ -42,7 +39,6 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) <br>
-
 
 ## 💾 Databases
 
@@ -78,16 +74,6 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
-
-  </div>
-
-  <div style="flex: 1;">
-    <p align="center">
-      <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><image src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZjc21wcnM1NjRxb2ZzYnpraXFzNzJ6NGM5eXZqdjBscmdjMXk5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-    </p>
-  </div>
-</div>
-
 ## 🛠️ Tools and Others
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -119,7 +105,7 @@
 
 ## 🎓 Currently Learning
 
-Somehow I'm always re-exploring some language or framework I already used, as well as other common ones to broaden my knowledge and enhance my coding skills, but I do intend to apply myself on learning the following:
+Somehow I'm always re-exploring some language or framework I already used, as well as other common ones to broaden my knowledge and enhance my coding skills, but I do intend to apply myself on learning the following: <br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
