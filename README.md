@@ -11,14 +11,15 @@
 
 
 <p align="center">
- I'm a Informatics Engineering graduate with a way too keen interest in VR and Video Games.
+ I'm a Informatics Engineering graduate with a way too keen interest in VR and Video Games. <br>
  🐺📚🎲 Wolves, reading and board games! Bring it 🐺📚🎲
  </p>
 <p align="center">
- Welcome to my GitHub profile feel free to look around. Here, in this page, you'll discover about the technologies I've utilized (as far as memory serves) or currently engage with, along with additional information.
+ Welcome to my GitHub profile feel free to look around. <br>
+ Here, in this page, you'll discover about the technologies I've utilized (as far as memory serves) <br> or I'm currently engage with, along with additional information.
 </p>
 <p align="center">
- ⚓️💀🏴‍☠️ Be warned: Navigate at yer own peril, no charts be providin', and ye be sure to meet Davy Jones 'fore a life buoy be thrown yer way! 🏴‍☠️💀⚓️
+ ⚓️💀🏴‍☠️ Be warned: Navigate at yer own peril, no charts be providin', <br> and ye be sure to meet Davy Jones 'fore a life buoy be thrown yer way! 🏴‍☠️💀⚓️
 </p>
 
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZjc21wcnM1NjRxb2ZzYnpraXFzNzJ6NGM5eXZqdjBscmdjMXk5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" /></p>
@@ -69,10 +70,10 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) <br>
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
 ## 🛠️ Tools and Others
 
@@ -92,20 +93,20 @@
 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) <br>
 ![BlueJ](https://img.shields.io/badge/BlueJ-%2300568C?style=for-the-badge&logo=java&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) <br>
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) <br>
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## 🎓 Currently Learning
 
-Somehow I'm always re-exploring some language or framework I already used, as well as other common ones to broaden my knowledge and enhance my coding skills, but I do intend to apply myself on learning the following: <br>
+Somehow I'm always re-exploring some language or framework I already used, <br> as well as other common ones to broaden my knowledge and enhance my coding skills, <br> but I do intend to apply myself on learning the following: <br> <br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -118,8 +119,8 @@ Somehow I'm always re-exploring some language or framework I already used, as we
 
 Feel free to reach out if you want to collaborate on a project, discuss, or just say hi! 😊
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pirata156&show_icons=true&hide_title=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pirata156&layout=compact)](https://github.com/Pirata156)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pirata156&show_icons=true&hide_title=true&hide_border=true&theme=dark&background=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pirata156&layout=compact&theme=dark&background=000000)](https://github.com/Pirata156)
 
 <hr style="height:30 pt; visibility:hidden;" />  
 
