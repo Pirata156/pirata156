@@ -1,7 +1,7 @@
 <!-- Header -->
 <p align="center">
   <a href="https://github.com/Pirata156">
-    <img src="https://path-to-your-gif" alt="Header_Pirata156" width="100%">
+    <img src="https://github.com/Pirata156/Pirata156/blob/main/banner_temp.gif?raw=true" alt="Header_Pirata156" width="65%">
   </a>
 </p>
 
